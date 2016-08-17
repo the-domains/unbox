@@ -2,14 +2,25 @@
     <channel>
         <title><![CDATA[unbox]]></title>
         <description><![CDATA[unbox]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/unbox/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 07:38:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 14:26:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/unbox/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[초간단 마음챙김 명상]]></title>
+            <description><![CDATA[<article><h1>초간단 마음챙김 명상</h1><p>
+
+
+ 1단계: 차분히 자신의 호흡에 생각을 집중하기
+코로 입으로 들고 나는 자신의 숨결에 조용히 주의를 기울이자. 명상을 '홀로 조용한 공간에 정좌하고 앉아서 뭔가 대단한 것을 수행하는 것'으로만 아는 사람들이 많다.  하지만 명상은 꼭 조용한 공간에 혼자 앉아서 해야 하는 것이 아니다. 언제 어디서든 가만히 자신의 호흡에 집중하면 충분하다. 회사에서든 학교에서든 만원 지하철이든 상관없다. 자신의 호흡에 집중할 수 있는 잠깐의 시간이면 족하다. </p></article>]]></description>
+            <link>https://thegrid.ai/unbox/1/index.html</link>
+            <guid isPermaLink="false">b4b15d64-bb74-4d7b-ad1e-e557305a6627</guid>
+            <pubDate>Wed, 17 Aug 2016 14:25:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[보라매공원에서]]></title>
-            <description><![CDATA[<article><h1>보라매공원에서</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64776c21b12e546d838bbcc3556cea28595c68d8.jpg"></article>]]></description>
-            <link>undefinede9a9c87b-67b6-4b80-91dc-8e1c207c7e81/index.html</link>
+            <description><![CDATA[<article><h1>보라매공원에서</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a169a02f5c60fbe94290c4717eac049905dca6c7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/unbox/e9a9c87b-67b6-4b80-91dc-8e1c207c7e81/index.html</link>
             <guid isPermaLink="false">e9a9c87b-67b6-4b80-91dc-8e1c207c7e81</guid>
             <pubDate>Sun, 31 Jan 2016 07:38:18 GMT</pubDate>
         </item>
